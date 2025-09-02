@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Kaveesha 👋  
 
-<!--
-**KaveeshaDeshanG/KaveeshaDeshanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 🚀 **Full-stack Developer** | Building Web Apps & APIs  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- Skilled in **.NET, C#, Blazor, SQL, PHP, Java**  
+- Passionate about **web development, clean code, and scalable solutions**  
+- Always exploring new technologies & improving my skills  
+- ⚡ Fun fact: I love cricket 🏏 and gaming 🎮  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** C#, Java, PHP, SQL  
+- **Frameworks:** ASP.NET Core, Blazor, MVC  
+- **Databases:** SQL Server, MySQL  
+- **Other:** REST APIs, Entity Framework, Git  
+
+---
+
+### 📊 GitHub Stats  
+![Kaveesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaveeshaDesahan&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaDesahan&layout=compact&theme=radical)  
+
+---
+
+### 🌍 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+
+---
+
+✨ _"Always learning, always building."_  
