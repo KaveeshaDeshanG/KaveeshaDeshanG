@@ -18,17 +18,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Kaveesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaveeshaDesahan&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaDesahan&layout=compact&theme=radical)  
-
----
-
-### 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
-
----
-
 ✨ _"Always learning, always building."_  
