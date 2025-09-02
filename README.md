@@ -12,6 +12,8 @@ Hi! I'm Kaveesha, currently working at INVORG as a Solution Developer. I special
 ![](https://nirzak-streak-stats.vercel.app/?user=KaveeshaDeshanG&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaDeshanG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![snake gif](https://github.com/KaveeshaDeshanG/KaveeshaDeshanG/blob/output/github-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaveeshaDeshanG&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
